@@ -2,7 +2,7 @@
 <h3 align="center">A Web developer | SEO Expert Based in Jammu & Kashmir.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Offensive Security.<br><br>📝 I regularly write articles on Medium.<br><br>💬 Ask me about  JavaScript, PHP, WordPress.<br><br>📫 Reach me at mrs0hail5452@gmail.com.
+🌱 I’m currently learning Offensive Security.<br><br>💬 Ask me about  JavaScript, PHP, WordPress.<br><br>📫 Reach me at mrs0hail5452@gmail.com.
 
 
 ## 🌐 Socials:
