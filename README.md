@@ -2,7 +2,7 @@
 <h3 align="center">A Web developer | SEO Expert Based in Jammu & Kashmir.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Offensive Security.<br><br>💬 Ask me about  JavaScript, PHP, WordPress.<br><br>📫 Reach me at mrs0hail5452@gmail.com.
+🌱 I’m currently learning Offensive Security.<br><br>💬 Ask me about  JavaScript, PHP, Python and WordPress.<br><br>📫 Reach me at mrs0hail5452@gmail.com.
 
 
 ## 🌐 Socials:
@@ -26,6 +26,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrs0hail) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
