@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm S0hail Khan</h1>
-<h3 align="center">A Web Developer | WordPress Expert Based in Jammu & Kashmir.</h3>
+<h3 align="center">A Web Developer Based in Jammu & Kashmir.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Offensive Security.<br><br>💬 Ask me about  JavaScript, PHP, Python and WordPress.<br><br>📫 Reach me at mrs0hail5452@gmail.com.
+🌱 I’m currently learning Offensive Security.<br><br>💬 Ask me about  JavaScript, PHP, Python, and WordPress.<br><br>📫 Reach me at mrs0hail5452@gmail.com.
 
 
 ## 🌐 Socials:
